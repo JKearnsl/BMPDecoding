@@ -32,6 +32,8 @@ https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e
 
 ### Ручное разбиение
 
+В данном случае я использовал битовую карту Pillow(что разрешено), дабы перебрать пиксели
+
 https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e3015b/src/core/bmp.py#L263-L295
 
 ### Автоматическое разбиение (Pillow)

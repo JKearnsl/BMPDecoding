@@ -17,19 +17,26 @@
 
 ### Ручное разбиение
 
+Ручное разбиение занимает достаточно много кода, он немного избыточен.
+
+https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e3015b/src/core/bmp.py#L152-L227
 
 ### Автоматическое разбиение (Pillow)
 
+https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e3015b/src/core/bmp.py#L229-L261
 
 ## Разбиение на битовые срезы
 
+Битовые срезы представляют собой 8 частей одного изображения, лучший эффект виден на ч/б изображении. 
+Для экспериментов рекомендую использовать [данное изображение]()
 
 ### Ручное разбиение
 
+https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e3015b/src/core/bmp.py#L263-L295
 
 ### Автоматическое разбиение (Pillow)
 
-
+https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e3015b/src/core/bmp.py#L298-L321
 
 ## Скриншоты работы программы
 

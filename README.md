@@ -39,6 +39,12 @@ https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e
 https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e3015b/src/core/bmp.py#L298-L321
 
 ## Скриншоты работы программы
+![image](https://github.com/JKearnsl/BMPDecoding/assets/76239707/d3a41944-65d2-41fb-a068-9f4da5c53890)
+![image](https://github.com/JKearnsl/BMPDecoding/assets/76239707/852887ea-9690-40a0-9ad2-6c858c1bd6ee)
+![image](https://github.com/JKearnsl/BMPDecoding/assets/76239707/e90d1ae9-b853-4875-9616-5421f458eaeb)
+![image](https://github.com/JKearnsl/BMPDecoding/assets/76239707/dccaa402-5c3b-47f4-a445-e332a26eccc9)
+![image](https://github.com/JKearnsl/BMPDecoding/assets/76239707/43792df3-23a9-43f0-8389-3414fd86faf7)
+
 
 
 ## Экземпляры изображений для теста

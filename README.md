@@ -28,7 +28,7 @@ https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e
 ## Разбиение на битовые срезы
 
 Битовые срезы представляют собой 8 частей одного изображения, лучший эффект виден на ч/б изображении. 
-Для экспериментов рекомендую использовать [данное изображение]()
+Для экспериментов рекомендую использовать [данное изображение](https://raw.githubusercontent.com/JKearnsl/BMPDecoding/master/examples/bmp-24-gray.bmp)
 
 ### Ручное разбиение
 
@@ -43,3 +43,5 @@ https://github.com/JKearnsl/BMPDecoding/blob/4a80955e825d245b03adbd5140e708d4d8e
 
 ## Экземпляры изображений для теста
 
+- Цветное 24 битное изображение [скачать](https://raw.githubusercontent.com/JKearnsl/BMPDecoding/master/examples/bmp_24.bmp)
+- Ч/Б 24 битное изображение [скачать](https://raw.githubusercontent.com/JKearnsl/BMPDecoding/master/examples/bmp-24-gray.bmp)
